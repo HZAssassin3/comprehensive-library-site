@@ -1,0 +1,57 @@
+E:\internet\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+E:\internet\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+E:\internet\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+E:\internet\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+E:\internet\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.dll
+E:\internet\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.dll
+E:\internet\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.pdb
+E:\internet\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.pdb
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+E:\internet\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll

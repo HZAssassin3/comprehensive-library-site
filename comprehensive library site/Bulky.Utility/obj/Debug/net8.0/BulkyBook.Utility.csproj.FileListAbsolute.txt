@@ -1,0 +1,33 @@
+E:\internet\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+E:\internet\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+E:\internet\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\gskay\OneDrive\Masaüstü\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\gskay\OneDrive\Masaüstü\2.sınıf 1.dönem\internet Programcılığı\final\202351442011Ismail_Burunagil\Bulky-100\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll

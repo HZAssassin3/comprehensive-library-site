@@ -1,0 +1,11 @@
+E:\internet\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+E:\internet\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+E:\internet\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+E:\internet\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
